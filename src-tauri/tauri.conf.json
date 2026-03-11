@@ -16,8 +16,8 @@
       "icons/icon.ico"
     ]
   },
-  "productName": "create-tauri-react",
-  "version": "0.1.0",
+  "productName": "Claude Manager",
+  "version": "1.0.0",
   "identifier": "com.tauri.app",
   "plugins": {
     "process": {
@@ -30,7 +30,7 @@
     },
     "windows": [
       {
-        "title": "Tauri App",
+        "title": "Claude Manager",
         "width": 1000,
         "height": 600,
         "dragDropEnabled": false
